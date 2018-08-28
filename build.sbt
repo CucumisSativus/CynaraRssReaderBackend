@@ -12,6 +12,7 @@ val scalatestVersion = "3.0.5"
 libraryDependencies ++= Seq(
   "org.sangria-graphql" %% "sangria" % "1.4.2",
   "org.typelevel" %% "cats-core" % "1.2.0",
+  "org.typelevel" %% "cats-testkit" % "1.2.0",
   "org.http4s" %% "http4s-dsl" % http4sVersion,
   "org.http4s" %% "http4s-blaze-server" % http4sVersion,
   "org.http4s" %% "http4s-blaze-client" % http4sVersion,

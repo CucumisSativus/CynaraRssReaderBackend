@@ -1,4 +1,4 @@
-package net.cucumbersome.cynara
+package net.cucumbersome.feedMine
 
 import cats.effect._
 import org.http4s._

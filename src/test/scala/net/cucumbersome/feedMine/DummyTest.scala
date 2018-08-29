@@ -1,6 +1,6 @@
-package net.cucumbersome.cynara
+package net.cucumbersome.feedMine
 
-import net.cucumbersome.cynara.test.UnitTest
+import net.cucumbersome.feedMine.test.UnitTest
 import cats.implicits._
 
 class DummyTest extends UnitTest{

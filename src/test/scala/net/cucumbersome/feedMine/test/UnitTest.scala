@@ -1,4 +1,4 @@
-package net.cucumbersome.cynara.test
+package net.cucumbersome.feedMine.test
 
 import org.scalatest.{Matchers, WordSpec}
 

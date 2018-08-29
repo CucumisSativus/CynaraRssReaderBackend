@@ -1,4 +1,4 @@
-name := "CynaraRssReader"
+name := "FeedMineBackend"
 
 version := "0.1"
 

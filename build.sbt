@@ -29,7 +29,10 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % scalatestVersion % "test",
   "org.scalacheck" %% "scalacheck" % "1.14.0" % "test",
   "ch.qos.logback" % "logback-classic" % "1.3.0-alpha4",
-  "org.typelevel" %% "kittens" % "1.1.0"
+  "org.typelevel" %% "kittens" % "1.1.0",
+  "eu.timepit" %% "refined" % "0.9.2",
+  "com.softwaremill.common" %% "tagging" % "2.2.1",
+  "com.danielasfregola" %% "random-data-generator" % "2.5"
 )
 
 scalacOptions ++= Seq(
